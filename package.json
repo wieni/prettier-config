@@ -1,7 +1,6 @@
 {
   "name": "@wieni/prettier-config",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "prettier": "^2.1.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wieni/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wieni/prettier-config/issues"
+  },
+  "homepage": "https://github.com/wieni/prettier-config#readme",
+  "description": ""
 }
